@@ -20,4 +20,3 @@ st.header("📚 Step 1: Upload Syllabus")
 syllabus_file = st.file_uploader(
 "Upload your syllabus PDF",
 type=["pdf"]
-) should I paste this code..
